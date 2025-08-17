@@ -63,10 +63,3 @@ Por favor, abra uma issue ou envie um pull request com suas sugestões.
 Este projeto está sob a [MIT License](LICENSE) (ou especifique outra licença, se aplicável). As imagens usadas são de domínio público, conforme disponíveis no Wikimedia Commons.
 
 
-
-### Notas
-- **Personalização**: Ajuste o campo "Autor" e "Contato" com suas informações. Se preferir outra licença (ex.: GPL, Apache), substitua a menção à MIT License e adicione o arquivo correspondente.
-- **Expansão**: Se você planeja adicionar mais arquivos (ex.: dados, relatórios), inclua uma seção "Estrutura do Repositório" descrevendo-os.
-- **Teste**: Após criar o `README.md`, confirme que ele aparece corretamente no GitHub ao fazer o commit.
-
-Salve este conteúdo como `README.md` no repositório e faça o upload para ver o resultado! Se precisar de ajustes ou mais seções (ex.: tutorial detalhado), é só pedir!
